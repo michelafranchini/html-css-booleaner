@@ -35,3 +35,20 @@ body {
 .bg-yellow {
     background-color: rgb(255, 217, 45);
 }
+
+th {
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+    width: 198px;
+    height: 18px;
+}
+
+.celeste {
+    background-color: #b1e5f2;
+}
+
+#titolino-immagini {
+    color: grey;
+    font-weight: 800;
+}
